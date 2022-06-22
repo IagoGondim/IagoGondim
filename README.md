@@ -62,4 +62,3 @@ Acredito no trabalho árduo, pesquisa e método como ingredientes para entregar 
 <a href="https://github.com/IagoGondim/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=IagoGondim&style=for-the-badge">
 </a>
-
