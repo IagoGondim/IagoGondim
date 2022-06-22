@@ -1,4 +1,3 @@
-
 <div align="center" >
   
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -45,7 +44,7 @@ Acredito no trabalho árduo, pesquisa e método como ingredientes para entregar 
 <br>
 
 
-- <img src="https://c.tenor.com/POvAg2bcNnAAAAAi/linux-ethandud.gif" width=20/> Gosto de explorar **GNU/Linux**. <br>
+- <img src="https://c.tenor.com/POvAg2bcNnAAAAAi/linux-ethandud.gif" width=21/> Gosto de explorar **GNU/Linux**. <br>
 - <img src="https://images.squarespace-cdn.com/content/v1/55b64972e4b04ba2ac175f51/1548219257994-EO5URK880MKUKKGWIEBQ/10_speech_v2.gif?format=500w" width="20" /> Vamos falar sobre **Pc hardware, filmes, ou qualquer coisa**. <br>
 - <img src="https://c.tenor.com/zjbXreUb5_YAAAAd/steam.gif" width="20" /> Podemos jogar counter-strike ou dota:<a href="https://steamcommunity.com/profiles/76561198097282497/"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" width="60"/>
 
